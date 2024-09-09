@@ -1,4 +1,4 @@
-# map_interactive
+# Interactive webtool
 
 ## What is the purpose of this repository ? 
 This repository is use to have an interactive map of Europe and display the best tilt of bifacial pv systems for various albedo and ground coverage ratio. 
